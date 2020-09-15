@@ -16,8 +16,8 @@ export default {
   name: 'App',
   data(){
     return {
-      itemsListInput: [{name:'Eggs',image:'./assets/eggs.jpg',show:false},
-                    {name:'Bread',image:'/assets/bread.jfif',show:false},
+      itemsListInput: [{name:'DisplayEggs',image:'./assets/eggs.jpg',show:false},
+                    {name:'DisplayBread',image:'/assets/bread.jfif',show:false},
                     {name:'Jam',image:'/assets/jam.jfif',show:false},
                     {name:'CornFlakes',image:'/assets/cornflakes.jfif',show:false},
                     {name:'Milk',image:'/assets/milk.jfif',show:false},

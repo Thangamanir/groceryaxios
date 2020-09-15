@@ -10,7 +10,7 @@ export default{
           labels:[],
           datasets: [
             {
-              label: 'Bitcoin price in USD',
+              label: 'Bitcoin price in USD,changing this file',
                data:[],
               //backgroundColor:['aqua','lightgreen','red','orange'],
               borderWidth:0.5,
